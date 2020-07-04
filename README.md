@@ -1,2 +1,3 @@
-# Huffman-Compression
 # Huffman-Compression-Final
+
+Made in QT
